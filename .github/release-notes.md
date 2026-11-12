@@ -26,5 +26,5 @@ Unzip and copy `Nave.vst3` into your VST3 folder (macOS
 Linux `~/.vst3`), then rescan plug-ins in Live. The getting started guide
 (PDF) is in the download.
 
-**macOS:** the plugin isn't notarised. If macOS refuses to load it, run
-`xattr -dr com.apple.quarantine ~/Library/Audio/Plug-Ins/VST3/Nave.vst3`.
+**macOS:** the plugin is signed and notarised by Apple, so your DAW loads it
+straight away.
