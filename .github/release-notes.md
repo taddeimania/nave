@@ -2,6 +2,10 @@ Nave is a reverb suite for Ableton Live: twenty-nine reverb types with one set
 of controls for shaping them, a search box to find them, and a display that
 shows the actual tail you've dialled in.
 
+## New in 0.1.1
+
+- The macOS build is signed and notarised by Apple, so your DAW loads it straight away, with no quarantine command first.
+
 ## What's in 0.1.0
 
 - **29 types** in six categories: rooms (including a movable-source
